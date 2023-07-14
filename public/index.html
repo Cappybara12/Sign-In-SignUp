@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Sign In/Sign Up</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+
+    <h1>Sign In</h1>
+
+    <form id="signin-form">
+      <div class="imgcontainer">
+        <img src="images/img_avatar2.png" alt="Avatar" class="avatar">
+      </div>
+      <div>
+        <label for="signin-email">Email:</label>
+        <input type="email" id="signin-email" name="email" placeholder="Enter Mail">
+      </div>
+      
+      <div>
+        <label for="signin-password">Password:</label>
+        <input type="password" id="signin-password" name="password" placeholder="Enter Password">
+      </div>
+      <button type="submit">Sign In</button>
+    </form>
+
+    
+    <form id="signup-form" style="padding-top: 10rem ;">
+      <h1>Sign Up</h1>
+      <div class="imgcontainer">
+        <img src="images/img_avatar2.png" alt="Avatar" class="avatar">
+      </div>
+      <div>
+        <label for="signup-name">Name:</label>
+        <input type="text" id="signup-name" name="name" placeholder="Enter Username">
+      </div>
+      <div>
+        <label for="signup-email">Email:</label>
+        <input type="email" id="signup-email" name="email" placeholder="Enter mail">
+      </div>
+      <div>
+        <label for="signup-password">Password:</label>
+        <input type="password" id="signup-password" name="password" placeholder="Enter Password">
+      </div>
+      <button type="submit">Sign Up</button>
+    </form>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
