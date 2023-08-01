@@ -1,5 +1,5 @@
 # Sign-In-SignUp
-I created the sign in sign up forms that creates the user if user wants to sign up and in the sign up form checks the existence of user by using  and displays all the necesary messages in the console telling the existence of user . These two forms helped me deep dive in web dev and learn about cookies toekns and how the databses work .
+I created the sign in ,sign up forms that creates the user if user wants to sign up and in the sign in form checks the existence of user by using database and cookies,displays all the necesary messages in the console telling the existence of user . These two forms helped me deep dive in web dev and learn about cookies tokens and how the databses work .
 
 # Sign In Form 
 
