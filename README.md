@@ -47,7 +47,7 @@ Stay tuned for updates as we continue to evolve and refine the User Authenticati
 
 ## Contact
 
-For questions or inquiries, feel free to reach out to [your@email.com](mailto:your@email.com).
+For questions or inquiries, feel free to reach out to [akshayne912@email.com](mailto:your@email.com).
 
 ---
 
